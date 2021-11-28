@@ -1,6 +1,6 @@
 ## Summary
 
-View our deployed e-commerce store at: http://grace-bakes.herokuapp.com/home
+View our deployed e-commerce store at: httpS://grace-bakes.herokuapp.com/home
 
 Welcome to Grace Bakes, our ecommerce platform! Grace Bakes is an online bakery that specializes in sweet treats. Special thanks to our bakers: Annie, Annis, Laura, Riley =)
 
